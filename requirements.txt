@@ -1,0 +1,16 @@
+pandas~=2.2.2
+numpy~=1.26.4
+dash~=2.16.1
+dash_bootstrap_components~=1.6.0
+plotly~=5.21.0
+geopy~=2.4.1
+flask~=3.0.3
+pdfkit~=1.0.0
+scipy~=1.11.4
+seaborn~=0.13.2
+joblib~=1.4.2
+matplotlib~=3.7.2
+statsmodels~=0.14.2
+reportlab~=4.2.0
+pytest~=8.1.2
+requests~=2.31.0
